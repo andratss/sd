@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<head>
+  <title>  Cum jocurile ne fac sa pierdem banii? </title>
+  
+  
+  <p> <center>  <img src="https://logodownload.org/wp-content/uploads/2014/09/lol-league-of-Legends-logo.png" width="550" height="150"> </center> </p>
+  
+  </head>
+<body style="background-color:#fff0e6">
+
+<style>
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #ff0066;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #cc0052
+;
+}
+</style>
+</head>
+<body>
+
+
+
+<ul>
+  <li><a class="active" href="file:///C:/Users/Admin/Desktop/home.htm">Principala</a></li>
+  <li><a href="file:///C:/Users/Admin/Desktop/genshin.htm">Genshin Impact</a></li>
+  <li><a href="file:///C:/Users/Admin/Desktop/league.htm">League of Legends</a></li>
+  <li><a href="file:///C:/Users/Admin/Desktop/mobile.htm">Jocuri Mobile</a></li>
+</ul>
+
+<h2 style="color:#ff1a75"><b> <i> <center> ♡ Pe ce putem cheltui banii in League of Legends? ♡ </center> </i> </b> </h2>
+
+<p> <center> <img src="https://logodownload.org/wp-content/uploads/2019/12/riot-games-logo.png" width="400" height="150" </center> </p>
+
+<h2 style="color:#ff1a75"><b>  <center> ♥ Riot points- valuta premium ♥ </center> </b> </h2>
+
+<h2 style="color:#ff1a75"><b> <i> <center> ♡ Preturile valutei ♡ </center> </i> </b> </h2>
+
+
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+</style> 
+   <table style="width:100%">
+  <tr>
+    <th>Cantitate</th>
+    <th>Pret</th> 
+  </tr>
+  <tr>
+    <td>650 RP</td>
+    <td>USD $5</td>
+    
+  </tr>
+  <tr>
+    <td>1380 RP</td>
+    <td>USD $10</td>
+    
+  </tr>
+  <tr>
+    <td>2800 RP</td>
+    <td>USD $20</td>
+    
+    </tr>
+    <tr>
+       <td>5000 RP</td>
+    <td>USD $35</td>
+    
+  </tr>
+  <tr>
+    <td>7200 RP</td>
+    <td>USD $50</td>
+    
+  </tr>
+  <tr>
+    <td>15000 RP</td>
+    <td>USD $100</td>
+    
+  </tr>
+</table>
+
+
+<h2 style="color:#ff1a75"><b> <i> <center> ♡ La ce se folosesc RP? ♡ </center> </i> </b> </h2>
+ <p> <center> <img src="https://thegamehaus.com/wp-content/uploads/2020/09/all-league-of-legends-champions.jpg" width="500" height="200"> </center> </p>
+ <h2 style="color:#ff1a75"><b>  <center> ♥ Cumpararea eroilor ♥ </center> </b> </h2>
+ 
+ <p> <center> <img src="https://www.esportstalk.com/wp-content/uploads/2020/03/Top-10-League-of-Legends-Skins.jpg" width="500" height="200"> </center> </p>
+  <h2 style="color:#ff1a75"><b>  <center> ♥ Cumpararea schimbarilor estetice (skins) ♥ </center> </b> </h2>
+
+</body>
+</html>

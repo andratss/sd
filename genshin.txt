@@ -45,10 +45,10 @@ li a:hover {
 
 
 <ul>
-  <li><a class="active" href="#principala">Principala</a></li>
-  <li><a href="#Genshin">Genshin Impact</a></li>
-  <li><a href="#lol">League of Legends</a></li>
-  <li><a href="#mobile">Jocuri Mobile</a></li>
+  <li><a class="active" href="file:///C:/Users/Admin/Desktop/home.htm">Principala</a></li>
+  <li><a href="file:///C:/Users/Admin/Desktop/genshin.htm">Genshin Impact</a></li>
+  <li><a href="file:///C:/Users/Admin/Desktop/league.htm">League of Legends</a></li>
+  <li><a href="file:///C:/Users/Admin/Desktop/mobile.htm">Jocuri Mobile</a></li>
 </ul>
 
 

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<head>
+  <title>  Cum jocurile ne fac sa pierdem banii? </title>
+  
+   <h1 style="color:#ff1a75">  <b> <center> ♡ Cum jocurile mobile ne fac sa pierdem banii? ♡ </b> </center> </h1> 
+  
+</head>
+<body style="background-color:#fff0e6">
+
+
+<style>
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #ff0066;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #cc0052
+;
+}
+</style>
+</head>
+<body>
+
+
+
+<ul>
+  <li><a class="active" href="file:///C:/Users/Admin/Desktop/home.htm">Principala</a></li>
+  <li><a href="file:///C:/Users/Admin/Desktop/genshin.htm">Genshin Impact</a></li>
+  <li><a href="file:///C:/Users/Admin/Desktop/league.htm">League of Legends</a></li>
+  <li><a href="file:///C:/Users/Admin/Desktop/mobile.htm">Jocuri Mobile</a></li>
+</ul>
+
+<h2 style="color:#ff1a75"><b> <i> <center> ♡ Pe ce putem cheltui banii in jocurile mobile? ♡ </center> </i> </b> </h2>
+
+<p> <center> <img src="https://metro.co.uk/wp-content/uploads/2020/03/90784263_2828360553928420_670395827415416832_n-cfa8.png" width="350" height="300" </center> </p>
+
+<h2 style="color:#ff1a75"><b>  <center> ♥ Vieti pentru a juca dupa ce pierdem de mai multe ori ♥ </center> </b> </h2>
+
+
+<p> <center> <img src="https://i.ytimg.com/vi/BP9YtHaVVig/maxresdefault.jpg" width="450" height="200" </center> </p>
+
+<h2 style="color:#ff1a75"><b>  <center> ♥ Bonusuri pentru usurarea nivelelor ♥ </center> </b> </h2>
+</body>
+</html>

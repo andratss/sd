@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <meta charset="UTF-8">
@@ -45,11 +44,12 @@ li a:hover {
 <body>
 
 
+
 <ul>
-  <li><a class="active" href="#principala">Principala</a></li>
-  <li><a href="#Genshin">Genshin Impact</a></li>
-  <li><a href="#lol">League of Legends</a></li>
-  <li><a href="#mobile">Jocuri Mobile</a></li>
+  <li><a class="active" href="file:///C:/Users/Admin/Desktop/home.htm">Principala</a></li>
+  <li><a href="file:///C:/Users/Admin/Desktop/genshin.htm">Genshin Impact</a></li>
+  <li><a href="file:///C:/Users/Admin/Desktop/league.htm">League of Legends</a></li>
+  <li><a href="file:///C:/Users/Admin/Desktop/mobile.htm">Jocuri Mobile</a></li>
 </ul>
 
 </body>
@@ -89,7 +89,8 @@ function carousel() {
 
 <body>
 
- <h2 style="color:#ff1a75"><b> <i> <center> ♡ De ce programatorii jocurilor vor sa cheltuim bani? ♡ </center> </i> </b> </h2>
+<h2 style="color:#ff1a75"><b> <i> <center> ♡ Pe ce putem cheltui banii in Genshin Impact? ♡ </center> </i> </b> </h2>
+   <div>
   
 <p> <font size="5"> <b> ♥ Compensarea muncii depuse </font size="5"> </b> </p>
  <p> <font size="5"> <b> ♥ Cresterea veniturilor </font size="5"> </b> </p>
