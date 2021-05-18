@@ -1,0 +1,119 @@
+
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<head>
+  <title>  Cum jocurile ne fac sa pierdem banii? </title>
+  
+  <h1 style="color:#ff1a75">  <b> <center> ♡ Cum jocurile ne fac sa pierdem banii? ♡ </b> </center> </h1> 
+  
+</head>
+<body style="background-color:#fff0e6">
+
+
+<style>
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #ff0066;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #cc0052
+;
+}
+</style>
+</head>
+<body>
+
+
+<ul>
+  <li><a class="active" href="#principala">Principala</a></li>
+  <li><a href="#Genshin">Genshin Impact</a></li>
+  <li><a href="#lol">League of Legends</a></li>
+  <li><a href="#mobile">Jocuri Mobile</a></li>
+</ul>
+
+</body>
+
+
+
+
+<section>
+
+  <img class="mySlides" src="https://www.pcgamesn.com/wp-content/uploads/2021/04/genshin-impact-yanfei-build.jpg" style="width:100%" >
+  <img class="mySlides" src="https://i.pinimg.com/originals/dd/64/18/dd6418cbd2bb28eeb2401a296ccbe52c.jpg" style="width:100%">
+  <img class="mySlides" src="https://s3.amazonaws.com/sensortower-itunes/blog/2017/01/2016-top-mobile-games-hero.jpg" style="width:100%">
+  
+</section>
+
+<script>
+
+var myIndex = 0;
+carousel();
+
+function carousel() {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";
+  }
+  myIndex++;
+  if (myIndex > x.length) {myIndex = 1}
+  x[myIndex-1].style.display = "block";
+  setTimeout(carousel, 3000);
+}
+</script>
+
+
+
+
+
+<body>
+
+ <h2 style="color:#ff1a75"><b> <i> <center> ♡ De ce programatorii jocurilor vor sa cheltuim bani? ♡ </center> </i> </b> </h2>
+  
+<p> <font size="5"> <b> ♥ Compensarea muncii depuse </font size="5"> </b> </p>
+ <p> <font size="5"> <b> ♥ Cresterea veniturilor </font size="5"> </b> </p>
+ <p> <font size="5"> <b> ♥ Cresterea prestigiului jocului </font size="5"> </b> </p>
+ 
+ 
+</body>
+
+</ul>
+ 
+</body>
+
+<body>
+<h2 style="color:#ff1a75">  <b> <i> <center> ♡ Cum ne conving sa efectuam microtransactii? ♡ </center> </i> </b>  </h2>
+
+<p> <font size="5"> <b> ♥ Oferirea colectibilelor estetice (skins, arme mai puternice, etc.) </font size="5"> </b> </p>
+ <p> <font size="5"> <b> ♥ Battle pass - un abonament care iti ofera unele beneficii </font size="5"> </b> </p>
+ <p> <font size="5"> <b> ♥ Valuta baneasca virtuala </font size="5"> </b> </p>
+
+</body>
+
+
+</html>
+
+
+
+

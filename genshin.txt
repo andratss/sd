@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<head>
+  <title>  Cum jocurile ne fac sa pierdem banii? </title>
+  
+<p> <center>  <img src="https://cdn-game-photos.zeusx.com/33d9d20e-4f2d-4721-ac06-422365980680.png" width="550" height="150"> </center> </p>
+  
+ 
+</head>
+<body style="background-color:#fff0e6">
+
+<style>
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #ff0066;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #cc0052
+;
+}
+</style>
+</head>
+<body>
+
+
+<ul>
+  <li><a class="active" href="#principala">Principala</a></li>
+  <li><a href="#Genshin">Genshin Impact</a></li>
+  <li><a href="#lol">League of Legends</a></li>
+  <li><a href="#mobile">Jocuri Mobile</a></li>
+</ul>
+
+
+<h2 style="color:#ff1a75"><b> <i> <center> ♡ Pe ce putem cheltui banii in Genshin Impact? ♡ </center> </i> </b> </h2>
+   <div>
+<p> <center> <img src="https://panels-images.twitch.tv/panel-91181983-image-817a92e6-ab12-40e1-bdf5-d1145d1d404b" style="border:0px;margin:0px;float:left;width:200px;" alt="Primogems" width="150" height="150">  
+
+<img src="https://upload-os-bbs.hoyolab.com/upload/2020/10/21/34847877/a6fdd1cec4f7659a2bd0745c4e3042de_4322000955271455850.PNG?x-oss-process=image/resize,s_740/quality,q_80/auto-orient,0/interlace,1/format,png" alt="Primoprice" width="400" height="200"> </center> </p> 
+
+   </div>
+ 
+<h2 style="color:#ff1a75"><b>  <center> ♥ Primogem - valuta premium ♥ </center> </b> </h2>
+
+
+<p> <center> <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2020/11/Genshin-Impact-Wishes-Pity.jpg" width="400" height="200"> </center> </p>
+
+ <h2 style="color:#ff1a75"><b>  <center> ♥ Wish banner - gatcha cu personaje ♥ </center> </b> </h2>
+
+
+
+</body>
+</html>
